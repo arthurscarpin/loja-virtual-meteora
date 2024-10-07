@@ -10,6 +10,7 @@ Esse é um Web Site estático responsivo da loja virtual Meteora, uma loja virtu
 
 ## 🛍️ Meteora
 ![img-meteora](https://github.com/user-attachments/assets/900b2c6a-a7a4-463b-b10d-5f7ddd3eceb9)
+[Deploy Meteora](https://arthurscarpin.github.io/loja-virtual-meteora/)
 
 ## 👖Técnicas de design
 - HTML semântico;

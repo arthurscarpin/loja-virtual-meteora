@@ -1,0 +1,29 @@
+/* Cores personalizadas */
+:root {
+    --verde: #DAFF01;
+}
+
+/* Classes personalizadas */
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.fonte-verde {
+    color: var(--verde);
+}
+
+.fundo-lilas {
+    background-color: #9353FF;;
+}
+
+.fundo-lilas:hover {
+    background-color: #9d67fc;
+}
+
+.posicao {
+    top: 40%;
+}
